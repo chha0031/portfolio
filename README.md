@@ -1,13 +1,13 @@
 # Chhaya's MTM6201 Portfolio
 
 ## Project Description
-Welcome to my web portfolio, I have creaated this portfolio as part of the Web Dev  course in which we learned about advance CSS and Bootstrap. I built this portfolio based on my design UX1 course where i learned about...
+Welcome to my web portfolio, I have created this portfolio as part of the Web Dev  course in which we learned about advanced CSS and Bootstrap. I built this portfolio based on my interest in photography.
 
 ## Challenges
-Taking the design and breaking it down....
+Making the design, placing and resizing images, and breaking it down. 
 
 ## Lessons Learned
-I learned to work with a design and build it in HTML....
+I learned to work with a design, making it accessible and build it in HTML.
 
 ## Frameworks and Libraries
 - [Bootstrap](https://getbootstrap.com/)
