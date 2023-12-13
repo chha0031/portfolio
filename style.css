@@ -1,0 +1,46 @@
+body {
+  min-height: 100vh;
+  background-image:url('images/photo6.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+
+
+.body {
+    
+    background-image:'images/photo5.jpg'; 
+    background-size: cover; 
+    background-position: center; 
+  }
+  
+    
+.body {display: flex;
+        justify-content: center;
+        align-items: center; 
+        background-color: #f0f0f0; }
+      
+  
+      .centered-image { max-width: 100%; 
+        
+      }
+      footer {
+        background-color: #353A3F;
+        padding: 20px 0;
+        text-align: center;
+      }
+      
+      .social-links {
+        display: inline-block;
+      }
+      
+      .social-icon {
+        display: inline-block;
+        margin: 0 10px; 
+      }
+      
+      .social-icon img {
+        width: 30px; 
+        height: 30px; 
+      }
